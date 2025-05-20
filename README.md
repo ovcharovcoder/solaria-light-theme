@@ -21,6 +21,13 @@
 
 ---
 
+## Author
+
+- Andriy Ovcharov
+- E-mail: datoshcode@gmail.com
+
+---
+
 ## License
 
 MIT
