@@ -16,8 +16,8 @@
 
 ## Installation
 
-1. Download from the [Marketplace](#) _(link will be added after publishing)_
-2. Select the theme via `Preferences → Color Theme → Solaria Light`
+1. Download from the [Marketplace](#) _(https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-light-theme)_
+2. Select the theme via `Preferences → Color Theme → Solaria Light Theme`
 
 ---
 
