@@ -10,7 +10,7 @@
 
 ## Preview
 
-![screenshot](screenshot.png)
+![screenshot](icon.png)
 
 ---
 
