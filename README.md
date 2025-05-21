@@ -22,7 +22,7 @@
 ---
 
 ## Development Date  
-🗓️ Developed: May 2025
+- Developed: May 2025
 
 ---
 
