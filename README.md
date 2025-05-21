@@ -5,7 +5,7 @@
 ## Features
 
 - Clear syntax highlighting for JavaScript, PHP, HTML, CSS/SCSS
-- Tailwind CSS, Sass, and DOM API support
+- Support for Tailwind CSS, Sass, and DOM API support
 - Subtle, elegant colors for comments, functions, variables, and keywords
 
 ## Preview
