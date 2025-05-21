@@ -31,3 +31,5 @@
 ## License
 
 MIT
+
+![icon](icon.png)
