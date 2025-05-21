@@ -21,6 +21,11 @@
 
 ---
 
+## Development Date  
+🗓️ Developed: May 2025
+
+---
+
 ## Author
 
 - Andriy Ovcharov
