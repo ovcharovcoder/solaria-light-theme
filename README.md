@@ -32,4 +32,6 @@
 
 MIT
 
+## Icon
+
 <img src="icon.png" width="150" alt="icon" />
