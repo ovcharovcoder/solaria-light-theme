@@ -32,4 +32,4 @@
 
 MIT
 
-![icon](icon.png)
+<img src="icon.png" width="150" alt="icon" />
