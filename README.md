@@ -23,7 +23,7 @@
 
 ---
 
-## Сolor Palette 
+## Icon / Сolor Palette 
 
 <img src="images/colors-light.webp" width="400px" alt="img">
 
