@@ -33,13 +33,6 @@
 
 ---
 
-## Icon
-
-![icon](icon.png)
-![icon](icon1.png)
-
----
-
 ## License
 
 MIT
