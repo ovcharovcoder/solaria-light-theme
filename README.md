@@ -30,6 +30,12 @@
 
 ---
 
+## Сolor Palette 
+
+<img src="images/colors-light.webp" alt="img">
+
+---
+
 ## Development Date  
 - Developed: May 2025
 
