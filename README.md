@@ -10,6 +10,7 @@
 
 ## Preview
 
+<img src="screenshot-light-theme-1.png" alt="img">
 ![screenshot](screenshot.png)
 
 ---
