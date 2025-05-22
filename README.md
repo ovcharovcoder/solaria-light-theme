@@ -15,9 +15,9 @@
 **CSS** 
 <img src="images/screenshot-light-theme-2.webp" alt="img"><br><br>
 **SCSS** 
-<img src="images/screenshot-light-theme-3.webp" alt="img"><br><br>
-**JS** 
 <img src="images/screenshot-light-theme-4.webp" alt="img"><br><br>
+**JS** 
+<img src="images/screenshot-light-theme-3.webp" alt="img"><br><br>
 **PHP** 
 <img src="images/screenshot-light-theme-5.webp" alt="img">
 
