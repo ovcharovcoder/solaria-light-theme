@@ -11,15 +11,15 @@
 ## Preview
 
 **HTML** 
-<img src="images/screenshot-light-theme-1.png" alt="img"><br><br>
+<img src="/images/screenshot-light-theme-1.png" alt="img"><br><br>
 **CSS** 
-<img src="images/screenshot-light-theme-2.png" alt="img"><br><br>
+<img src="/images/screenshot-light-theme-2.png" alt="img"><br><br>
 **SCSS** 
-<img src="images/screenshot-light-theme-5.png" alt="img"><br><br>
+<img src="/images/screenshot-light-theme-5.png" alt="img"><br><br>
 **JS** 
-<img src="images/screenshot-light-theme-3.png" alt="img"><br><br>
+<img src="/images/screenshot-light-theme-3.png" alt="img"><br><br>
 **PHP** 
-<img src="images/screenshot-light-theme-4.png" alt="img">
+<img src="/images/screenshot-light-theme-4.png" alt="img">
 
 ---
 
