@@ -14,6 +14,8 @@
 <img src="screenshot-light-theme-1.png" alt="img"><br><br>
 **CSS** 
 <img src="screenshot-light-theme-2.png" alt="img"><br><br>
+**SCSS** 
+<img src="screenshot-light-theme-5.png" alt="img"><br><br>
 **JS** 
 <img src="screenshot-light-theme-3.png" alt="img"><br><br>
 **PHP** 
