@@ -10,8 +10,11 @@
 
 ## Preview
 
+**HTML** 
 <img src="screenshot-light-theme-1.png" alt="img"><br>
+**CSS** 
 <img src="screenshot-light-theme-2.png" alt="img"><br>
+**JS** 
 <img src="screenshot-light-theme-3.png" alt="img">
 
 ---
