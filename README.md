@@ -32,7 +32,7 @@
 
 ## Сolor Palette 
 
-<img src="images/colors-light.webp" alt="img">
+<img src="images/colors-light.webp" width="200px" alt="img">
 
 ---
 
