@@ -23,16 +23,16 @@
 
 ---
 
+## Сolor Palette 
+
+<img src="images/colors-light.webp" width="400px" alt="img">
+
+---
+
 ## Installation
 
 1. Download from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-light-theme)
 2. Select the theme via `Preferences → Color Theme → Solaria Light Theme`
-
----
-
-## Сolor Palette 
-
-<img src="images/colors-light.webp" width="400px" alt="img">
 
 ---
 
