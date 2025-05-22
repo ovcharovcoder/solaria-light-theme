@@ -50,5 +50,5 @@
 
 ## License
 
-MIT
+<a href="LICENSE">MIT</a>
 
