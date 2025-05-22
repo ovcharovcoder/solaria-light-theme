@@ -2,7 +2,7 @@
 	"name": "solaria-light-theme",
 	"displayName": "Solaria Light Theme",
 	"description": "A soft light theme for VS Code with a calm color palette inspired by Nord and Tailwind — perfect for day and night coding.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "ovcharovcoder",
 	"repository": {
 		"type": "git",
@@ -16,6 +16,13 @@
 		"Themes"
 	],
 	"icon": "icon.png",
+	"files": [
+		"themes",
+		"icon.png",
+		"README.md",
+		"LICENSE",
+		"package.json"
+	],
 	"contributes": {
 		"themes": [
 			{
