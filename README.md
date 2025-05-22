@@ -10,8 +10,9 @@
 
 ## Preview
 
-<img src="screenshot-light-theme-1.png" alt="img">
-![screenshot](screenshot.png)
+<img src="screenshot-light-theme-1.png" alt="img"><br>
+<img src="screenshot-light-theme-2.png" alt="img"><br>
+<img src="screenshot-light-theme-3.png" alt="img">
 
 ---
 
