@@ -24,7 +24,7 @@
 ---
 
 ## Icon / Сolor Palette 
-
+<img src="images/Icon light.webp" width="400px" alt="img">
 <img src="images/colors-light.webp" width="400px" alt="img">
 
 ---
